@@ -1,0 +1,19 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.my-4 {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.star-rating-filled {
+  color: #f39c12;
+}
+
+.star-rating-empty {
+  color: #bdc3c7;
+}
